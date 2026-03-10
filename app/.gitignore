@@ -1,0 +1,6 @@
+# App-specific build files
+/build
+*.iml
+
+# Firebase (Kalau mau di-ignore silakan aktifkan baris di bawah)
+# /google-services.json
